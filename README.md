@@ -1,4 +1,4 @@
-<h1>Wea</h1>
+<h1>Weather</h1>
 
 Name: Parivesh Rohilla
 
